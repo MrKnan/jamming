@@ -1,5 +1,4 @@
 import React from 'react';
-import { render } from '@testing-library/react';
 import './App.css';
 import Playlist from '../Playlist/Playlist'
 import SearchResults from '../SearchResults/SearchResults'
